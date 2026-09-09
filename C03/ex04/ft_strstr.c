@@ -43,7 +43,7 @@ char *ft_strstr(char *str, char *to_find)
     }
     return (0);
 }
-
+/*
 int main()
 {
     char needle[] = "5";
@@ -63,4 +63,4 @@ int main()
     }
 
     return 0;
-}
+}*/
